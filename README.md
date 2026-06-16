@@ -9,7 +9,7 @@
 - Khalid Albugamy
 - Koda Pinto 
 - Noah Maclean 
-- 0liver Kot 
+- Oliver Kot 
 
 ## [Visit the website!](letsgogambling.pages.dev)
 
