@@ -1,6 +1,6 @@
 # Let's Go Gambling!
 
-## How it's built:
+## How it's built
 - Frontend built with the React library and CSS.
 - Backend uses Firebase for authentification with an SQL database.
 
@@ -12,5 +12,3 @@
 - Oliver Kot *[@0liverKot](https://github.com/0liverKot)*
 
 ## Visit the [website](letsgogambling.pages.dev)!
-
-
